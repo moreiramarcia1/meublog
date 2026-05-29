@@ -1,6 +1,6 @@
 title: "Eme"
 author: "Eme"
-description: "My blog"
+description: "Microblog"
 permalink: /:title/
 lang: "pt-br"
 excerpt_separator: "\n\n\n"
@@ -23,7 +23,6 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:m@marciafreddi.com.br"}
-  - {title: Bluesky, icon: borboleta, url: "https://mastodon.world/@mmfreddi1"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
