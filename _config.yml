@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:m@marciafreddi.com.br"}
-  - {title: Mastodon, icon: elephant, url: "https://mastodon.world/@mmfreddi1"}
+  - {title: Bluesky, icon: borboleta, url: "https://mastodon.world/@mmfreddi1"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
