@@ -1,10 +1,10 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Eme"
+author: "Eme"
 description: "My blog"
 permalink: /:title/
-lang: "en"
+lang: "pt-br"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: "%d, %B, %Y"
 
 # Layout
 
@@ -22,8 +22,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:m@marciafreddi.com.br"}
+  - {title: Mastodon, icon: mastodon, url: "https://mastodon.world/@mmfreddi1"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
