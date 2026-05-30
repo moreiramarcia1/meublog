@@ -20,7 +20,6 @@ show_minimal: true            # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
-  - {file: "home.html", sidebaricon: home}
   
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:m@marciafreddi.com.br"}
